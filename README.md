@@ -1,6 +1,5 @@
 # RamonCoghiel20190544
 EA3 Project
-README File
 
 Steps to run EA3pro project
  
