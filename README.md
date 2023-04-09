@@ -7,9 +7,9 @@ Open command prompt
 
 Navigate to the  folder containing the unzipped project:
 
-Navigate to the EA3pro folder using the following command:
+Navigate to the RamonCoghiel20190544 folder using the following command:
 
-cd ea3pro
+cd RamonCoghiel20190544
 
 Activate the virtual environment using the following command:
 
